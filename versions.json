@@ -14,5 +14,7 @@
   "notification":1.0,
   "npc-interaction":1.0,
   "multi-character":1.0,
-  "library":1.1
+  "library":1.1,
+  "report":1.0,
+  "building-raid":1.0
 }
